@@ -2,6 +2,10 @@ package com.gemini.training;
 
 
 /**
+ * author: Sachin Sharma
+ * email: sachin.sharma1@geminisolutions.com
+ *
+ *
  * Calculator class
  * used for calculation of two operands
  */
